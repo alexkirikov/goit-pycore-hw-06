@@ -1,7 +1,7 @@
 #  goit-pycore-hw-06 - Address Book 
 
 This project implements a simple **Address Book system** using Object-Oriented Programming principles in Python.
-It includes entities for contacts, phone validation, record management, and a collection class for storing and searching records.
+It includes entities for contacts, phone validation, records management, and a collection class for storing and searching records.
 
 The project also comes with a full suite of **unit tests** to ensure all functionality works as expected.
 
